@@ -1,3 +1,4 @@
+// i did not make this, credit goes to https://www.arduino.cc/en/Tutorial/LibraryExamples/LiquidCrystalSerialDisplay
 // uses this library: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 // SCL to A5 on the Arduino
 // SDA to A4 on the Arduino
